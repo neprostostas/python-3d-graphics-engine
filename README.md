@@ -6,8 +6,8 @@ A simple graphics engine with Pygame and ModernGL to learn 3D programming withou
 
 Created by **Stanislav Kinash** / **neprostostas**
 
-![preview1](/screenshot/1.png)
-![preview2](/screenshot/2.png)
+![preview1](/screenshots/1.png)
+![preview2](/screenshots/2.png)
 
 ## Features
 * OBJ file importer
